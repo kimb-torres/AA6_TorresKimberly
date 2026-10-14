@@ -1,0 +1,20 @@
+#BlueJ class context
+#Wed Oct 14 02:45:04 CST 2026
+comment0.target=Edificio
+comment1.params=pNombre pDescripcion
+comment1.target=Edificio(java.lang.String, java.lang.String)
+comment2.params=pArea pCapacidad pUso
+comment2.target=void registrarPiso(double, int, java.lang.String)
+comment2.text=Registra un piso con \u00E1rea, capacidad y uso.
+comment3.params=pArea pUso
+comment3.target=void registrarPiso(double, java.lang.String)
+comment4.target=int consultarCapacidadTotalDelEdificio()
+comment5.params=pNumeroPiso
+comment5.target=double consultarAreaDeUnPiso(int)
+comment6.params=pNumeroPiso
+comment6.target=java.lang.String consultarUsoDeUnPiso(int)
+comment7.params=numero
+comment7.target=Piso buscarPiso(int)
+comment8.target=int getCantidadEdificios()
+comment9.target=java.lang.String toString()
+numComments=10

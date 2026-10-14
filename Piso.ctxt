@@ -1,0 +1,12 @@
+#BlueJ class context
+#Wed Oct 14 02:45:04 CST 2026
+comment0.target=Piso
+comment1.params=pNumeroPiso pArea pCapacidad pUso
+comment1.target=Piso(int, double, int, java.lang.String)
+comment2.target=int getNumeroPiso()
+comment3.target=double getArea()
+comment4.target=int getCapacidad()
+comment5.target=java.lang.String getUso()
+comment6.target=int getCantidadPisos()
+comment7.target=java.lang.String toString()
+numComments=8
