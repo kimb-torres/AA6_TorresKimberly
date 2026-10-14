@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Oct 14 01:10:43 CST 2026
+comment0.target=HorarioSalida
+comment1.params=hora
+comment1.target=HorarioSalida(int)
+comment2.params=pHora pMinuto
+comment2.target=HorarioSalida(int, int)
+comment3.target=java.lang.String toString()
+numComments=4

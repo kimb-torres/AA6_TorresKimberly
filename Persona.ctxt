@@ -1,0 +1,11 @@
+#BlueJ class context
+#Wed Oct 14 01:10:43 CST 2026
+comment0.target=Persona
+comment1.params=nombre
+comment1.target=Persona(java.lang.String)
+comment2.params=pNombreP pCondicion
+comment2.target=Persona(java.lang.String, java.lang.String)
+comment3.target=java.lang.String getNombre()
+comment4.target=java.lang.String getCondicion()
+comment5.target=java.lang.String toString()
+numComments=6

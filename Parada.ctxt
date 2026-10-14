@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Oct 14 01:10:43 CST 2026
+comment0.target=Parada
+comment1.params=pCodigo pNombre
+comment1.target=Parada(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getCodigo()
+comment3.target=java.lang.String getNombre()
+comment4.target=java.lang.String toString()
+numComments=5
